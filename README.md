@@ -22,8 +22,8 @@ Website ini dibuat menggunakan
 3. UI Framework: Bootstrap
 
 Tugas ini dibuat oleh:
-1. Zhia Amirul Mukminin dan 
-2. Muhammad Ridha
+1. Zhia Amirul Mukminin(2010817210012) dan 
+2. Muhammad Ridha(2010817210024)
 
 <p>Sumber Referensi/Inspirasi</p>
 <p>https://github.com/surfsidemedia/Laravel-8-Project-Home-Services.git</p>
