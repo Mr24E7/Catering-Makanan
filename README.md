@@ -22,5 +22,4 @@ Javascript Framework: OWL Carousel dan jQuery
 UI Framework: Bootstrap
 
 Tugas ini dibuat oleh:
-Zhia Amirul Mukminin
-Muhammad Ridha
+Zhia Amirul Mukminin dan Muhammad Ridha
