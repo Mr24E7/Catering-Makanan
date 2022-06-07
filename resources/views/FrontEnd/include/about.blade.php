@@ -29,6 +29,11 @@
 <p>Tugas ini dibuat oleh:</p>
 <p>1. Zhia Amirul Mukminin dan </p>
 <p>2. Muhammad Ridha</p>
+
+<p>Sumber Referensi/Inspirasi</p>
+<p>https://github.com/surfsidemedia/Laravel-8-Project-Home-Services.git</p>
+<p>https://github.com/surfsidemedia/Laravel-8-E-Commerce.git</p>
+<p>https://github.com/surfsidemedia/Laravel-8-E-Commerce-Pages.git</p>
 				<div class="ftr-toprow">
 					<div class="col-md-4 ftr-top-grids">
 						<div class="ftr-top-left">
