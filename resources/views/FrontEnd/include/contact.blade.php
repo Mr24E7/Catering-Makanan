@@ -82,11 +82,11 @@
 		</div>
 		<!-- map -->
 		<div class="map agileits">
-           <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14588.75051485969!2d90.38900244999999!3d23.91840915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1623629666579!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+           <iframe src="https://www.google.com/search?q=banjarmasin+google+map&rlz=1C1ONGR_enID1001ID1001&oq=banjarmasin+g&aqs=chrome.3.69i57j0i512l3j46i512j0i15i22i30j0i22i30l4.10950j0j7&sourceid=chrome&ie=UTF-8#" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-			{{-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.948805392833!2d-73.99619098458929!3d40.71914347933105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a27e2f24131%3A0x64ffc98d24069f02!2sCANADA!5e0!3m2!1sen!2sin!4v1479793484055"></iframe> --}}
+			{{-- <iframe src="https://www.google.com/search?q=banjarmasin+google+map&rlz=1C1ONGR_enID1001ID1001&oq=banjarmasin+g&aqs=chrome.3.69i57j0i512l3j46i512j0i15i22i30j0i22i30l4.10950j0j7&sourceid=chrome&ie=UTF-8#"></iframe> --}}
 
-            {{-- <iframe width="300" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed/v1/view?key=AIzaSyAJifc7pwvUkN0yrtn7BPn8I-lRg33PSNc&center=24.3333333,91&zoom=12&maptype=satellite" style="border:1px solid #000;"></iframe><a href="http://www.maplandia.com/bangladesh/dhaka-div/kishoreganj-zl/gazipur/" title="google satellite map of Gazipur">Gazipur google map</a> --}}
+            {{-- <iframe width="300" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/search?q=banjarmasin+google+map&rlz=1C1ONGR_enID1001ID1001&oq=banjarmasin+g&aqs=chrome.3.69i57j0i512l3j46i512j0i15i22i30j0i22i30l4.10950j0j7&sourceid=chrome&ie=UTF-8#" style="border:1px solid #000;"></iframe><a href="https://www.google.com/search?q=banjarmasin+google+map&rlz=1C1ONGR_enID1001ID1001&oq=banjarmasin+g&aqs=chrome.3.69i57j0i512l3j46i512j0i15i22i30j0i22i30l4.10950j0j7&sourceid=chrome&ie=UTF-8#" title="google satellite map of Banjarmasin">Banjarmasin google map</a> --}}
 		</div>
 		<!-- //map -->
 	</div>
