@@ -27,9 +27,9 @@ class DishController extends Controller
 
 
         $request->validate([
-            'dish_name ' => 'required|unique:dishes',
+            'dish_name ' => '',
             'dish_detail' => 'required',
-            'dish_image' => 'required',
+            'dish_image' => '',
             'dish_status' => 'required',
             'full_price'=> 'required'
         ]);
