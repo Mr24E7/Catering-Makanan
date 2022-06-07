@@ -17,9 +17,10 @@ Tutorial run this project on your computer
 16. End
 
 Website ini dibuat menggunakan
-Web Framework: Laravel
-Javascript Framework: OWL Carousel dan jQuery
-UI Framework: Bootstrap
+1. Web Framework: Laravel
+2. Javascript Framework: OWL Carousel dan jQuery
+3. UI Framework: Bootstrap
 
 Tugas ini dibuat oleh:
-Zhia Amirul Mukminin dan Muhammad Ridha
+1. Zhia Amirul Mukminin dan 
+2. Muhammad Ridha
