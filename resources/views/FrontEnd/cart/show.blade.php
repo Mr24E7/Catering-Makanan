@@ -42,21 +42,21 @@
 
 <div class="row">
     <div class=" col-md-4 card text-white bg-danger mb-3" style="max-width: 18rem; margin:50px; margin-top:0px">
-  <div class="card-header">Use This Code For(100-1000)TK</div>
+  <div class="card-header">Use This Code For(100-1000)</div>
   <div class="card-body">
     <h1 class="card-title">c12335</h1>
     <p class="card-text">You Can get 10% Off for this Coupon. So hurry up for order!!!</p>
   </div>
 </div>
 <div class="col-md-4  card text-white bg-info mb-3" style="max-width: 18rem; margin:50px; margin-top:0px">
-  <div class="card-header">Use This Code For(1000-2000)TK</div>
+  <div class="card-header">Use This Code For(1000-2000)</div>
   <div class="card-body">
     <h1 class="card-title">a2345</h1>
     <p class="card-text">You Can get 20% Off for this Coupon. So hurry up for order!!!</p>
   </div>
 </div>
 <div class="col-md-4  card text-white bg-success mb-3" style="max-width: 18rem; ">
-  <div class="card-header">Use This Code For(2000-10000)TK</div>
+  <div class="card-header">Use This Code For(2000-10000)</div>
   <div class="card-body">
     <h1 class="card-title">b12345</h1>
     <p class="card-text">You Can get 30% Off for this Coupon. So hurry up for order!!!</p>

@@ -20,9 +20,9 @@
                                 <div class="card-body">
                                     <strong class="text-bold" style="font-size: 20px">Your payable amount is
                                         @if(Session::get('sum') ==null)
-                                             00 Tk.
+                                             00 .
                                         @else
-                                            {{ Session::get('sum') }} Tk.
+                                            {{ Session::get('sum') }} .
                                         @endif
                                     </strong>
                                     <br>
